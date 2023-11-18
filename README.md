@@ -1,0 +1,2 @@
+# komponen-pc
+pc
